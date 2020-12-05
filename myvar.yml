@@ -1,0 +1,4 @@
+ip: <your_host_ip>
+dvd_dir: "/dvd5"
+doc_root: "/var/www/nilu"
+http_port: 8089
